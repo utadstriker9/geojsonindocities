@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sample City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.8, -6.2],
+            [106.9, -6.2],
+            [106.9, -6.3],
+            [106.8, -6.3],
+            [106.8, -6.2]
+          ]
+        ]
+      }
+    }
+  ]
+}
